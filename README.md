@@ -3,7 +3,7 @@
 
 <h3 align="left">📫Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/elvin-q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicat-q" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/elvin-q](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHzVwjdv1ZkAgAAAY4OaGNQ-sLcFc4AhkNxFzuMSBy1NYsHYAEa1AziXngZdMtp8nNh6ALT3PrphWLFhuCqey0UVul5fkGOZiDfthfEJeAcwKmKhw4ofl35am2YIUCgBhygzG8=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felvin-q%25C9%2599dirli-302a93233%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicat-q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️Languages and Tools:</h3>
